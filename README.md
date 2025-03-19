@@ -1,1 +1,1 @@
-# Project_tips_calculator
+# tips_calculator
